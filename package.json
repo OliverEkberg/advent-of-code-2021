@@ -19,7 +19,7 @@
     "url": "https://github.com/OliverEkberg/advent-of-code-2021/issues"
   },
   "homepage": "https://github.com/OliverEkberg/advent-of-code-2021#readme",
-  "dependencies": {
+  "devDependencies": {
     "standard": "^16.0.4"
   }
 }
